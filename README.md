@@ -38,7 +38,7 @@ Note: The above configuration uses environment variables. You can use `.env` for
 ## Setup your local development environment
 
 To locally resolve your service by name, you must also configure the DNS service. Probably the most common way 
-to do this is to use *dnsmask*. You can setup dnsmask with or without NetworkManager.
+to do this is to use *dnsmask*. You can setup dnsmask [with or without NetworkManager](https://askubuntu.com/questions/233195/route-complete-tld-dev-for-example-to-127-0-0-1).
 
 ### Setup dnsmask without NetworkManager
 
